@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/C219_L9/static/css/main.5c98e1b9.css",
+    "main.js": "/C219_L9/static/js/main.d447700e.js",
+    "static/media/img-main.jpg": "/C219_L9/static/media/img-main.1c80193cd07602fe145e.jpg",
+    "static/media/red30-tech-logo.png": "/C219_L9/static/media/red30-tech-logo.b747ab1c3d6de6873782.png",
+    "index.html": "/C219_L9/index.html",
+    "main.5c98e1b9.css.map": "/C219_L9/static/css/main.5c98e1b9.css.map",
+    "main.d447700e.js.map": "/C219_L9/static/js/main.d447700e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c98e1b9.css",
+    "static/js/main.d447700e.js"
+  ]
+}
